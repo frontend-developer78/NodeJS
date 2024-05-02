@@ -1,0 +1,23 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "learn nodejs with 7learn",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontend-developer78/NodeJS.git"
+  },
+  "author": "mhd.soltani97@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontend-developer78/NodeJS/issues"
+  },
+  "homepage": "https://github.com/frontend-developer78/NodeJS#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
